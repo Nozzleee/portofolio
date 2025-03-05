@@ -52,11 +52,11 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "IT Support",
+    Company: `PT Afresto Sistem Indonesia`,
+    Location: "Semarang",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Sep 2020 - Active",
   },
   {
     Position: "Internship",
