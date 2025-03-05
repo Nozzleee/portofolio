@@ -60,35 +60,28 @@ export const workDetails = [
   },
   {
     Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `SID`,
+    Location: "Kudus",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Jul 2017 - Oct 2021",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
+    Position: "Web desaign",
+    Company: "YouTube, Google, Medium",
     Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Type: "Part Time",
+    Duration: "Jan 2020 - Dec 2020",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
+    Position: "Bachelor in Faculty of Computer",
+    Company: `Universitas Dian Nuswantoro`,
+    Location: "Semarang",
     Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Sep 2018 - Feb 2022",
   },
 ];
 
