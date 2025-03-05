@@ -38,15 +38,15 @@ export const personalDetails = {
   name: "ERIEK NOERDIYANTO",
   tagline: "I build things for web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `I am a graduate of Information Systems with expertise in IT Support, Web Design, Web Programming, and Data Analysis. I have the ability to work independently or in a team, and always strive to provide the best solution in every challenge faced. With a strong understanding of technology and experience in various projects, I am ready to contribute in creating innovative and efficient digital solutions.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
+  linkdein: "https://www.linkedin.com/in/eriek-n-51662a123/",
+  github: "https://github.com/Nozzleee",
   twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  instagram: "https://www.instagram.com/eryk__n/",
 };
 
 // Enter your Work Experience here
